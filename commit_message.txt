@@ -1,0 +1,10 @@
+Implemented Playwright TypeScript Test Automation Framework
+
+- Added framework structure with necessary directories and files
+- Configured package.json, tsconfig.json, and playwright.config.ts
+- Implemented BasePage and APIClient for abstraction
+- Created LoginPage for POM
+- Added UI, API, and Integration tests
+- Configured Allure reporting
+- Set up GitHub Actions for CI/CD
+- Updated README.md with installation and usage instructions
